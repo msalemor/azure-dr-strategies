@@ -6,7 +6,7 @@
 
 ## 3.0 - Architecting for Disaster Recovery
 
-- ```Active-Active (highest):``` Deploy to two active regions and distribute traffic.
+- ```Active-Active (highest):``` Deploy to two active regions and distribute traffic between them.
 - ```Active-Passive (medium):``` Deploy to main region and keep DR region on-standby. Upon disaster failover to secondary region.
 - ```Active, Backup and Restore (low):``` Deploy to main region and backup required settings and data. Upon disaster create all the requiresed services in a secondary region and restore the settings and data.
 
