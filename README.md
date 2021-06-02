@@ -1,4 +1,4 @@
-# Strategies for DR Scenarios
+# Azure - DR Failover Strategies
 
 ## 1.0 - Problem statement
 
