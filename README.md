@@ -18,6 +18,9 @@
 
 ### 4.3 - Calculate Compound SLA
 
+- Don't forget about SLAs for infrastructure componets (VNEts, Application Gateways, Firewall, etc.)
+- What about dependecies to on-prem systems?
+
 ### 4.4 - Build for resiiency and self-healing
 
 ## 5.0 - Leverage Instrastructure as Code
