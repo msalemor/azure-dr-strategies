@@ -39,6 +39,11 @@
 ### 5.1 - Dependent services that take a long time to install
 
 - If your architecture depends on services that may take a long time to install, determine if you need to keep these services in a passive state
+- Some services include:
+  - API Management
+  - Large AKS clusters
+  - Application Gateway
+  - VPN Gateway
 
 ## 6.0 - DevOps/GitOps
 
