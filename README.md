@@ -4,7 +4,7 @@
 
 ## 2.0 - Objective
 
-## 3.0 - Architectures
+## 3.0 - Architecting for Disaster Recovery
 
 - ```Active-Active (highest):``` Deploy to two active regions and distribute traffic.
 - ```Active-Passive (medium):``` Deploy to main region and keep DR region on-standby. Upon disaster failover to secondary region.
