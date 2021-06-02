@@ -18,8 +18,9 @@
 
 ### 4.3 - Calculate Compound SLA
 
-- Don't forget about SLAs for infrastructure componets (VNEts, Application Gateways, Firewall, etc.)
-- What about dependecies to on-prem systems?
+- Don't forget about SLAs for infrastructure componets (VNEts, Application Gateways, Firewall, etc.).
+- What about dependecies to on-prem systems?.
+- Offered SLA may not improved with multi-zone deployment and does not guard against a region wide outage.
 
 ### 4.4 - Build for resiiency and self-healing
 
