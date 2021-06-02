@@ -24,6 +24,10 @@
 
 ### 4.4 - Build for resiiency and self-healing
 
+- Resiliency design patterns
+- Application resiliency design patterns
+  - Circuit breaker, retry back-off, etc.
+
 ## 5.0 - Leverage Instrastructure as Code
 
 ### 5.1 - IaC Concepts
