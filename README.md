@@ -8,19 +8,19 @@
 
 - ```Active-Active (highest):``` Deploy to two active regions and distribute traffic.
 - ```Active-Passive (medium):``` Deploy to main region and keep DR region on-standby. Upon disaster failover to secondary region.
-- ```Active Backup and Restore (low):``` Deploy to main region and backup required settings and data. Upon disaster create all the requiresed services in a secondary region and restore the settings and data.
+- ```Active, Backup and Restore (low):``` Deploy to main region and backup required settings and data. Upon disaster create all the requiresed services in a secondary region and restore the settings and data.
 
 ## 4.0 - Using SLAs and resiliency concepts
 
-### 4.1 - Define your RTO & RPO
+### 4.1 - Determine your SLA requirements
 
-### 4.2 - Calculate Compound SLA
+### 4.2 - Define your RTO & RPO
 
-### 4.3 - Build for resiiency and self-healing
+### 4.3 - Calculate Compound SLA
 
-### 4.5 - Determine if single region deployment meets required SLA
+### 4.4 - Build for resiiency and self-healing
 
-## 5.0 - Instrastructure as code
+## 5.0 - Leverage Instrastructure as Code
 
 ### 5.1 - IaC Concepts
 
@@ -30,7 +30,7 @@
 
 ### 5.1 - Dependent services that take a long time to install
 
-- If your architecture depends on services that may take a long time to install, determine if you need to keep this in a passive state
+- If your architecture depends on services that may take a long time to install, determine if you need to keep these services in a passive state
 
 ## 6.0 - DevOps/GitOps
 
