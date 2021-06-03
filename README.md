@@ -26,6 +26,8 @@
 
 ### 4.4 - Build for resiliency and self-healing
 
+- Perform a failure mode anlysis
+  - https://docs.microsoft.com/en-us/azure/architecture/resiliency/failure-mode-analysis
 - Resiliency design patterns
 - Application resiliency design patterns
   - Circuit breaker, retry back-off, etc.
