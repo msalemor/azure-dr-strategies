@@ -4,8 +4,6 @@
 
 ## 2.0 - Objective
 
-
-
 ## 3.0 - Architecting for Disaster Recovery
 
 - ```Active-Active (highest):``` Deploy to two ore more active regions and distribute traffic among them.
@@ -38,6 +36,9 @@
 - Leverage resilient application design patterns
   - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/application-resiliency-patterns
 - If possible, build for loose coupling and eventual consitency
+
+Reference:
+- https://github.com/Azure/fta-cloudarchitecture/blob/master/docs/reliability.md
 
 ## 5.0 - Leverage Instrastructure as Code
 
