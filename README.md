@@ -58,6 +58,7 @@
 ## 6.0 - DevOps/GitOps
 
 - Deploy your workloads with DevOps CI/CD pipelines
+- Consider adding a failover stage to the pipelines where the services are provisioned and the applications deployed
 
 ## 7.0 - Data Replication
 
