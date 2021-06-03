@@ -14,15 +14,17 @@
 
 ### 4.1 - Determine your SLA requirements
 
+- This is an important decision, is the solution critical and needs to be available 24/7 or is it a non-critical system that could be down for a number of hours with causing any impact?
+
 ### 4.2 - Define your RTO & RPO
 
 ### 4.3 - Calculate Compound SLA
 
-- Don't forget about SLAs for infrastructure componets (VNEts, Application Gateways, Firewall, etc.).
-- What about dependecies to on-prem systems?.
-- Offered SLA may not improved with multi-zone deployment and does not guard against a region wide outage.
+- Account for infrastructure componets (VNEts, Application Gateways, Firewall, etc.).
+- Account for on-prem dependencies?
+- Offered SLA may not improved with multi-zone deployment, and does not guard against a region wide outage.
 
-### 4.4 - Build for resiiency and self-healing
+### 4.4 - Build for resiliency and self-healing
 
 - Resiliency design patterns
 - Application resiliency design patterns
@@ -47,7 +49,7 @@
 
 ## 6.0 - DevOps/GitOps
 
-- Deploy your workloads with DevOps pipelines
+- Deploy your workloads with DevOps CI/CD pipelines
 
 ## 7.0 - Data Replication
 
