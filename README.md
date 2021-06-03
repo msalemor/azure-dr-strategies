@@ -20,6 +20,8 @@
 
 ### 4.3 - Calculate Compound SLA
 
+- Understand how to calculate a compoud SLA
+  - https://megamorf.gitlab.io/cheat-sheets/calculate-compound-availability/
 - Account for infrastructure componets (VNEts, Application Gateways, Firewall, etc.).
 - Account for on-prem dependencies?
 - Offered SLA may not improved with multi-zone deployment, and does not guard against a region wide outage.
