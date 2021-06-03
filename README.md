@@ -4,6 +4,8 @@
 
 ## 2.0 - Objective
 
+
+
 ## 3.0 - Architecting for Disaster Recovery
 
 - ```Active-Active (highest):``` Deploy to two ore more active regions and distribute traffic among them.
