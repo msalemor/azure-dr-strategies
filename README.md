@@ -37,6 +37,7 @@
 - Leverage resilient design patterns
 - Leverage resilient application design patterns
   - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/application-resiliency-patterns
+- If possible, build for loose coupling and eventual consitency
 
 ## 5.0 - Leverage Instrastructure as Code
 
