@@ -40,7 +40,7 @@
 
 - Deploy your environments using IaC
   - Leverage technologies such as ARM, Bicep and Terraform
-- Don't forget your governance and security settings (RBAC, NSGs, diagnostic settings, log analytics workspaces)
+- Don't forget to deploy your governance and security settings (RBAC, NSGs, diagnostic settings, log analytics workspaces)
 
 ### 5.1 - Dependent services that take a long time to install
 
