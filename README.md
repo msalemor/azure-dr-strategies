@@ -60,8 +60,12 @@
 ## 7.0 - Data Replication
 
 - Leverage data replication
+- Leverage a write region closer to the users
+- Consider globally distributed services (CosmosDB)
 
 ## 8.0 - Monitoring
+
+- Enable monitoring and alerting capabilities to determine that a failover is required
 
 ## 9.0 - Reherse your DR failover strategy
 
