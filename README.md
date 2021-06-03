@@ -28,9 +28,9 @@
 
 - Perform a failure mode anlysis
   - https://docs.microsoft.com/en-us/azure/architecture/resiliency/failure-mode-analysis
-- Resiliency design patterns
-- Application resiliency design patterns
-  - Circuit breaker, retry back-off, etc.
+- Leverage resilient design patterns
+- Leverage resilient application design patterns
+  - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/application-resiliency-patterns
 
 ## 5.0 - Leverage Instrastructure as Code
 
